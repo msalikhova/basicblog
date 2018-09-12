@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DataSourceManagerImpl" format="xml" multifile-model="true">
+    <data-source source="LOCAL" name="Django Blog DV default" uuid="83b6bc85-cf8e-4551-a8ad-0b2e9a14312b">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>C:\Users\malika\PycharmProjects\blogger\venv\Scripts\mysite</remarks>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\malika\PycharmProjects\blogger\venv\Scripts\mysite</jdbc-url>
+      <driver-properties>
+        <property name="enable_load_extension" value="true" />
+      </driver-properties>
+    </data-source>
+    <data-source source="LOCAL" name="C:\Users\malika\PycharmProjects\blogger\venv\Scripts\mysite" uuid="2b36410a-b26a-46b4-99fc-45feef6de585">
+      <driver-ref>sqlite.xerial</driver-ref>
+      <synchronize>true</synchronize>
+      <remarks>C:\Users\malika\PycharmProjects\blogger\venv\Scripts\mysite</remarks>
+      <jdbc-driver>org.sqlite.JDBC</jdbc-driver>
+      <jdbc-url>jdbc:sqlite:C:\Users\malika\PycharmProjects\blogger\venv\Scripts\mysite\db.sqlite3</jdbc-url>
+      <driver-properties>
+        <property name="enable_load_extension" value="true" />
+      </driver-properties>
+    </data-source>
+  </component>
+</project>
